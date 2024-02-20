@@ -1,6 +1,6 @@
 ## Hi, I'm Zeenat!
 
-I’m a Data Analyst (budding Data Scientist) with a passion for exploring and analysing data. Here’s a bit about me:<br><br>🔭 I’m currently a Data Science and Business Analysis Intern<br>🌱 I’m constantly exploring new technologies and tools in the field of data science. <br>👯 I’m looking to collaborate on data science projects and open source initiatives.<br>
+Here’s a bit about me:<br><br>🔭 I’m currently a Data Science and Business Analysis Intern<br>🌱 I’m constantly exploring new technologies and tools in the field of data science. <br>👯 I’m looking to collaborate on data science projects and open source initiatives.<br>
 
 ### 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeenatkoitawala) 
